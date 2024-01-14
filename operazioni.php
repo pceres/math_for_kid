@@ -22,7 +22,7 @@ I calcoli disponibili sono:<br>
 </ul>
 
 
-Esempio prodotto 232*98227:<br>
+Esempio prodotto 232*98227<br>
 <br>
 <!-- show table -->
 <b>
@@ -58,7 +58,7 @@ Esempio prodotto 232*98227:<br>
 
 
 
-Esempio divisione 1345*21:<br>
+Esempio divisione 1345/21<br>
 <br>
 <!-- show table -->
 <b>
