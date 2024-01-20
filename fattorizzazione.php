@@ -13,6 +13,11 @@ require_once ('libreria.php'); // load library
 if (isset($_POST['SubmitButton'])) {    //check if form was submitted
   $input1 = $_POST['fNumero'];   //get input text
 }
+else
+{
+    // valori di default
+    $input1 = 45;
+}
 
 ?>
 

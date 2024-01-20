@@ -14,6 +14,12 @@ if (isset($_POST['SubmitButton'])) {    //check if form was submitted
   $input1 = $_POST['fMoltiplicando'];   //get input text
   $input2 = $_POST['lMoltiplicatore'];  //get input text
 }
+else
+{
+    // valori di default
+    $input1 = 23.2;
+    $input2 = 98227;
+}
 
 ?>
 
