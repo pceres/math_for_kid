@@ -18,10 +18,13 @@ I calcoli disponibili sono:<br>
         <a href="prodotto.php">prodotto</a>
     </li><li>
         <a href="divisione.php">divisione</a>
+    </li><li>
+        <a href="fattorizzazione.php">fattorizzazione</a>
     </li>
 </ul>
 
 
+<hr>
 Esempio prodotto 232*98227<br>
 <br>
 <!-- show table -->
@@ -57,7 +60,7 @@ Esempio prodotto 232*98227<br>
 <br>
 
 
-
+<hr>
 Esempio divisione 1345/21<br>
 <br>
 <!-- show table -->
@@ -89,6 +92,40 @@ Esempio divisione 1345/21<br>
 <br>
 
 
+<hr>
+Esempio scomposizione in fattori: 45<br>
+<br>
+<!-- show table -->
+<b>
+<table>
+<tr>
+	<td>4</td><td>5</td><td>&ensp;</td><td>=</td><td>&ensp;</td><td>3</td><td>^</td><td>2</td><td>&ensp;</td><td>x</td><td>&ensp;</td><td>5</td><td>&ensp;</td><td></td>
+</tr><tr>
+	<td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td></td>
+</tr><tr>
+	<td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>1</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td></td>
+</tr><tr>
+	<td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>3</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td></td>
+</tr><tr>
+	<td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>5</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td></td>
+</tr><tr>
+	<td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>9</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td></td>
+</tr><tr>
+	<td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>1</td><td>5</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td></td>
+</tr><tr>
+	<td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>4</td><td>5</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td>&ensp;</td><td></td>
+</tr><tr>
+	<td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+</tr>
+</table>
+</b>
+
+</td></tr></table>
+<br>
+
+
+<hr>
+Ti incuriosisce capire cosa succede "dietro le quinte" per eseguire i calcoli?<br>
 Il codice sorgente in linguaggio PHP è liberamente disponibile <a href="https://github.com/pceres/math_for_kid">qui</a>
 </body>
 </html>
